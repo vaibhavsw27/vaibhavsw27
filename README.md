@@ -9,7 +9,7 @@ I'm a **Computer Science undergraduate at IIIT Delhi** interested in systems, al
 - 🎓 B.Tech Computer Science and Engineering, IIIT Delhi  
 - 💻 Interested in **Systems, Algorithms, and AI/ML**
 - 🧬 Exploring **Bioinformatics and Computational Biology**
-- 🧠 Solved **150+ problems on LeetCode and Codeforces**
+- 🧠 Solved **400+ problems across platforms**
 - 🐧 Comfortable working with **Linux and system-level programming**
 
 ---
