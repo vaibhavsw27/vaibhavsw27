@@ -36,24 +36,25 @@ LaTeX
 
 ## 📂 Projects
 
-### 🔧 Operating Systems Components Suite
+### CulinaryML: NLP-Driven Cuisine Classification at Scale
+An end-to-end machine learning and deep learning pipeline designed to analyze ingredient patterns and predict cuisine probabilities from raw text inputs. This project benchmarks classical NLP statistical modeling against modern transformer-based architectures using a dataset of nearly 40,000 recipes across 20 global cuisines.
+
+### Operating Systems Components Suite
 Built a custom ELF loader, Unix-style shell, and process scheduler simulating context switching and paging-based memory management.
 
-### ⚙️ RISC-V Assembler
+### RISC-V Assembler
 Developed a two-pass assembler translating RISC-V assembly into machine code and a disassembler for decoding instructions.
 
-### 🏫 College ERP Management System
+### College ERP Management System
 Designed a Java + SQL system with role-based authentication supporting course registration and academic record management.
-
-### 🎮 Pong Arcade Game
-Implemented a real-time Python game with modular game loop and collision detection.
 
 ---
 
 ## 🏆 Competitive Programming
 
-- **LeetCode:** 150+ problems solved  
-- **Codeforces:** Active participant
+- **LeetCode:** 250+ problems solved
+- **DSA:** More than 400+ problems solved
+
 
 ---
 
